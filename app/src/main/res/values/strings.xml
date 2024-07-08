@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">NewStoryApp</string>
+
+    <string name="alert_invalid_email">Email Salah</string>
+    <string name="nameNone">Don\'t let the name fill blank!</string>
+    <string name="passMustbe">The Password must be 8 character minimum</string>
+    <string name="title_signup_page">Please complete filling your data</string>
+    <string name="name">Name</string>
+    <string name="email">Surel</string>
+    <string name="password">Kata Sandi</string>
+    <string name="signup">Sign up</string>
+    <string name="contentalertdialog">You\'re good to go!</string>
+    <string name="title_login_page">Are you ready to upgrade your skill?</string>
+    <string name="message_login_page">Please insert your data!</string>
+    <string name="login">Login</string>
+    <string name="home">Halaman utama</string>
+    <string name="add">Tambah</string>
+    <string name="logout">Logout</string>
+    <string name="date">Date</string>
+    <string name="profilename">Nama Profil</string>
+    <string name="description">This is the description of the story</string>
+    <string name="message_welcome_page">Check your injury</string>
+    <string name="title_welcome_page">Welcome athletes!</string>
+    <string name="kamera">Camera</string>
+    <string name="galeri">Gallery</string>
+    <string name="inputdescription">Input the Description of the Story</string>
+    <string name="upload">Send story</string>
+    <string name="style">Fail to show the map Style</string>
+    <string name="error_style">Did not found the style</string>
+    <string name="salam">Halo, %1$s</string>
+    <string name="sample_list">List Sampel</string>
+    <string name="username">Username</string>
+    <string name="sample_add">Tambahkan sampel</string>
+    <string name="timeout">Waktu habis</string>
+    <string name="retry">Retry</string>
+    <string name="peta">Open Maps</string>
+    <string name="dialEx">Are you sure you want to exit?</string>
+    <string name="respY">Yes</string>
+    <string name="respT">No</string>
+    <string name="permission">Did not get the permission</string>
+    <string name="validUpl">Story uploaded!</string>
+    <string name="failUpl">Failed to upload story</string>
+    <string name="inputDesc">Please input the description</string>
+    <string name="inputImg">Please input the image</string>
+    <string name="choose">Choose image</string>
+    <string name="message_login">You\'re good to go!</string>
+    <string name="message_btn">Next</string>
+    <string name="toast_not">Account not found</string>
+    <string name="toast_error">Error</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sample_regist">Contoh Regist</string>
+    <string name="message_mail">Input the right email</string>
+    <string name="message_pass">The Password minimum 8 character</string>
+    <string name="log_in">Log in</string>
+    <string name="toast_regist">Email is already used</string>
+    <string name="message_regist">Account success to registered</string>
+    <string name="question_login">Already have an account?</string>
+    <string name="check_login">Keep my signed in</string>
+
+
+
+
+
+
+</resources>
